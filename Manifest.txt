@@ -1,0 +1,9 @@
+.autotest
+History.txt
+Manifest.txt
+README.md
+Rakefile
+lib/hello.rb
+test/test_hello.rb
+ext/hello/extconf.rb
+ext/hello/hello.c
